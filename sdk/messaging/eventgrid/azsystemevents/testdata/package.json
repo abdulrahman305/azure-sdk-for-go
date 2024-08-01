@@ -7,7 +7,7 @@
     "build": "tsp compile ./TempTypeSpecFiles/Azure.Messaging.EventGrid.SystemEvents/client.tsp"
   },
   "dependencies": {
-    "@azure-tools/typespec-client-generator-core": "^0.42.0",
+    "@azure-tools/typespec-client-generator-core": "^0.43.2",
     "@azure-tools/typespec-go": "https://github.com/Azure/autorest.go/releases/download/v0.1.0-dev.3-20240508.1/azure-tools-typespec-go-0.1.0-dev.3-20240508.1.tgz",
     "@typespec/compiler": "^0.57.0",
     "@typespec/versioning": "^0.56.0"
