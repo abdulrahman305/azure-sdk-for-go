@@ -9,7 +9,7 @@
   "dependencies": {
     "@azure-tools/typespec-autorest": "~0.47.0",
     "@azure-tools/typespec-azure-core": "~0.47.0",
-    "@typespec/compiler": "^0.61.2",
+    "@typespec/compiler": "^0.67.0",
     "@typespec/openapi3": "~0.61.0"
   },
   "private": true
